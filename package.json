@@ -1,8 +1,8 @@
 {
   "private": true,
-  "name": "breachalarm",
+  "name": "pwnedpasswordsworker",
   "version": "1.0.0",
-  "description": "A worker for api.khulnasoft.com to help with caching and padding.",
+  "description": "A worker for api.pwnedpasswords.com to help with caching and padding.",
   "main": "index.js",
   "author": "KhulnaSoft <info@khulnasoft.com>",
   "license": "BSD-3-Clause",
